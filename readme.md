@@ -2,17 +2,13 @@
 
 1
 ```bash
-  python3 -m venv venv
+  docker-compose build
 ```
 2
 ```bash
-  docker-compose build
-```
-3
-```bash
    docker-compose up
 ```
-3
+para detener
 ```bash
   docker-compose down
 ```
