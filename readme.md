@@ -4,15 +4,15 @@ primero clonar el repositorio, despues en la carpeta ejecutar:
 
 
 
-1
+corremos corremos el comando para crear la imagen
 ```bash
   docker-compose build
 ```
-2
+corremos un contenedor
 ```bash
    docker-compose up
 ```
-3
+lo podemos detener con este comando
 ```bash
   docker-compose down
 ```
