@@ -16,3 +16,4 @@ lo podemos detener con este comando
 ```bash
   docker-compose down
 ```
+podemos ver el programa corriendo en [localhost](http://127.0.0.1:5005/)
