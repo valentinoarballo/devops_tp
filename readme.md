@@ -8,7 +8,7 @@ primero clonar el repositorio, despues en la carpeta ejecutar:
 ```bash
   docker-compose build
 ```
-3
+2
 ```bash
    docker-compose up
 ```
