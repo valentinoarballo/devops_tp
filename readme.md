@@ -1,14 +1,18 @@
 ## Set-Up
 
+primero clonar el repositorio, despues en la carpeta ejecutar:
+
+
+
 1
 ```bash
   docker-compose build
 ```
-2
+3
 ```bash
    docker-compose up
 ```
-para detener
+3
 ```bash
   docker-compose down
 ```
